@@ -2,7 +2,7 @@
 
 DynamicsHub is an EPIC project aiming to streamline data management within Dynamics 365, allowing users to access, create, update, and delete data entities seamlessly.
 
-![Uploading image.png…]()
+![Dynamics Hub](https://github.com/muhammadahmadsiddiqui/DynamicsHub/assets/88609498/e6568711-c38c-4be4-90e0-946502df1fc5)
 
 ## Overview
 This project utilizes Django and React to create a management system that interacts with Dynamics 365. It enables the following functionalities:
@@ -32,6 +32,3 @@ To run this project locally:
 
 ## Contributions
 Contributions are welcome! Feel free to submit issues or pull requests.
-
-## License
-This project is licensed under the [MIT License](link-to-license).
